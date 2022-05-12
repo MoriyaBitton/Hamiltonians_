@@ -5,8 +5,7 @@ Markup : [Introduction to Quantum Information Science
 Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 
 #### Hamiltonians:
-&nbsp; Lecture 25: Hamiltonians
--
+&nbsp; Lecture 25: Hamiltonians <br/>
 &nbsp; &nbsp; 25.1 Quantum Algorithms for NP-complete Problems . . . . . . . 207
 -
 &nbsp; &nbsp; 25.2 Hamiltonians . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
