@@ -5,7 +5,7 @@
 Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 <br/>
 <br/>
-&nbsp; &nbsp; **__Lecture 25:** &nbsp; **Hamiltonians** <br/> <br/>
+&nbsp; &nbsp; **_Lecture 25** &nbsp; **Hamiltonians** <br/> <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **25.1** &nbsp; **Quantum Algorithms for NP-complete Problems** &nbsp; &nbsp; [207] <br/> <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **25.2** &nbsp; **Hamiltonians** &nbsp; &nbsp; [208] <br/> <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **25.2.1** &nbsp; &nbsp; **Matrix Exponentiation** &nbsp; &nbsp; [209] <br/> <br/>
