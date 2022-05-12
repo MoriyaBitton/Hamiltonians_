@@ -5,8 +5,8 @@ Markup : [Introduction to Quantum Information Science
 Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 
 #### Hamiltonians:
-> Lecture 25: Hamiltonians
-   >> 25.1 Quantum Algorithms for NP-complete Problems . . . . . . . 207
+&nbsp; Lecture 25: Hamiltonians
+&nbsp; &nbsp; 25.1 Quantum Algorithms for NP-complete Problems . . . . . . . 207
    >> 25.2 Hamiltonians . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
      >>> 25.2.1 Matrix Exponentiation . . . . . . . . . . . . . . . . . . 209
      >>> 25.2.2 Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
