@@ -5,7 +5,7 @@
 Lecture Notes]: https://www.scottaaronson.com/qclec.pdf
 
 #### Hamiltonians:
-- Lecture 25: Hamiltonians
+> Lecture 25: Hamiltonians
    - 25.1 Quantum Algorithms for NP-complete Problems . . . . . . . 207
    - 25.2 Hamiltonians . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
      - 25.2.1 Matrix Exponentiation . . . . . . . . . . . . . . . . . . 209
