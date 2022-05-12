@@ -1,7 +1,7 @@
 # Hamiltonians
 
 ### Sources:
-Markup : [Introduction to Quantum Information Science
+[Introduction to Quantum Information Science
 Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 <br/>
 <br/>
