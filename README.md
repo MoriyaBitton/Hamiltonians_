@@ -2,7 +2,7 @@
 
 ###### Ariel University, Israel || Semester B 2022
 
-> Source: [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
+> _Source:_ [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 > 
 > Lecture 25: &nbsp; **Hamiltonians** <br/>
 > 
