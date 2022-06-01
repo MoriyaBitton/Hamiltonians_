@@ -6,7 +6,7 @@
 > 
 > [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 > 
->> Lecture 25: &nbsp; **Hamiltonians** <br/>
+> Lecture 25: &nbsp; **Hamiltonians** <br/>
 >> 
 >>> 25.1 &nbsp; **Quantum Algorithms for NP-complete Problems** &nbsp; &nbsp; [207] <br/>
 >>> 
