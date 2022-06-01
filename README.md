@@ -2,11 +2,11 @@
 
 ###### Ariel University, Israel || Semester B 2022
 
-> **Sources:**
+##### Sources
+> [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 > 
->> [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
->> 
 > Lecture 25: &nbsp; **Hamiltonians** <br/>
+> 
 >> 25.1 &nbsp; **Quantum Algorithms for NP-complete Problems** &nbsp; &nbsp; [207] <br/>
 >> 
 >> 25.2 &nbsp; **Hamiltonians** &nbsp; &nbsp; [208] <br/>
