@@ -9,6 +9,7 @@
 >> 25.1 &nbsp; **Quantum Algorithms for NP-complete Problems** &nbsp; &nbsp; [207] <br/>
 >> 
 >> 25.2 &nbsp; **Hamiltonians** &nbsp; &nbsp; [208] <br/>
+>>
 >>> 25.2.1 &nbsp; &nbsp; **Matrix Exponentiation** &nbsp; &nbsp; [209] <br/>
 >>> 
 >>> 25.2.2 &nbsp; &nbsp; **Energy** &nbsp; &nbsp; [212] <br/>
