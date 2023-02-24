@@ -1,6 +1,6 @@
 # Hamiltonians
 
-###### Ariel University, Israel || Semester B 2022
+###### Ariel University, Israel || Semester B, 2022
 
 > __Source:__ &nbsp; [Introduction to Quantum Information Science Lecture Notes](https://www.scottaaronson.com/qclec.pdf)
 > 
